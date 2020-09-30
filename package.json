@@ -1,0 +1,35 @@
+{
+  "name": "create-react-app",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "clsx": "latest",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0",
+    "lodash": "^4.17.20",
+    "react": "latest",
+    "react-apollo": "^3.1.5",
+    "react-dom": "latest",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
