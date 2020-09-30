@@ -2,7 +2,9 @@
 
 ## How to use
 
+```sh
 Download or clone it
+```
 
 Install it and run:
 
